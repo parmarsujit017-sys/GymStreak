@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .env
 .env.*
 **/.env
@@ -13,3 +14,11 @@ build/
 .DS_Store
 Thumbs.db
 cmd command.txt
+=======
+db.sql
+passwords.txt
+*.log
+node_modules/
+about.html
+!important.log
+>>>>>>> b326123f2f7d465b42dc66a3b532bd8dcabb95c0
