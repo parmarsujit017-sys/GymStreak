@@ -1,8 +1,4 @@
-node_modules/
-.env
-
-
-# Environment variables and secrets
+# Environment files
 .env
 .env.*
 **/.env
@@ -18,8 +14,10 @@ build/
 
 # Logs
 *.log
-npm-debug.log*
 
 # System files
 .DS_Store
 Thumbs.db
+
+# Personal files
+cmd command.txt
